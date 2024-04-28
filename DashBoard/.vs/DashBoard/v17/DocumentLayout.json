@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\.NET\\DashBoard\\",
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{088D0D5A-E62C-41D8-9ABE-17AC1A678FB8}|DashBoard.csproj|d:\\.net\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{088D0D5A-E62C-41D8-9ABE-17AC1A678FB8}|DashBoard.csproj|c:\\users\\admin\\onedrive - duy tan university\\desktop\\git\\doan_dashboard\\dashboard\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{088D0D5A-E62C-41D8-9ABE-17AC1A678FB8}|DashBoard.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088D0D5A-E62C-41D8-9ABE-17AC1A678FB8}|DashBoard.csproj|D:\\.NET\\DashBoard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{088D0D5A-E62C-41D8-9ABE-17AC1A678FB8}|DashBoard.csproj|C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{088D0D5A-E62C-41D8-9ABE-17AC1A678FB8}|DashBoard.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\.NET\\DashBoard\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\.NET\\DashBoard\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\.NET\\DashBoard\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\.NET\\DashBoard\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADAAAAA5AAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADAAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-17T03:05:06.288Z",
               "EditorCaption": ""

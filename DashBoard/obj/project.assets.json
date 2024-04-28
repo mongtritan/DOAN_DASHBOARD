@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.NET\\DashBoard\\DashBoard.csproj",
+      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\DashBoard.csproj",
       "projectName": "DashBoard",
-      "projectPath": "D:\\.NET\\DashBoard\\DashBoard.csproj",
+      "projectPath": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\DashBoard.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\.NET\\DashBoard\\obj\\",
+      "outputPath": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
