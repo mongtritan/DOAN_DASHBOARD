@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\mongt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\DashBoard.csproj",
+      "projectUniqueName": "C:\\Users\\mongt\\OneDrive\\Máy tính\\DOAN_DASHBOARD\\DashBoard\\DashBoard.csproj",
       "projectName": "DashBoard",
-      "projectPath": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\DashBoard.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\OneDrive - DUY TAN University\\Desktop\\Git\\DOAN_DASHBOARD\\DashBoard\\obj\\",
+      "projectPath": "C:\\Users\\mongt\\OneDrive\\Máy tính\\DOAN_DASHBOARD\\DashBoard\\DashBoard.csproj",
+      "packagesPath": "C:\\Users\\mongt\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mongt\\OneDrive\\Máy tính\\DOAN_DASHBOARD\\DashBoard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mongt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

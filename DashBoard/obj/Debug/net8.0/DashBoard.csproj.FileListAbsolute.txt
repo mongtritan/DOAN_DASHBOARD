@@ -59,3 +59,34 @@ C:\Users\ADMIN\OneDrive - DUY TAN University\Desktop\Git\DOAN_DASHBOARD\DashBoar
 C:\Users\ADMIN\OneDrive - DUY TAN University\Desktop\Git\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.pdb
 C:\Users\ADMIN\OneDrive - DUY TAN University\Desktop\Git\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.genruntimeconfig.cache
 C:\Users\ADMIN\OneDrive - DUY TAN University\Desktop\Git\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\ref\DashBoard.dll
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\appsettings.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\DashBoard.staticwebassets.runtime.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\DashBoard.exe
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\DashBoard.deps.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\DashBoard.runtimeconfig.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\DashBoard.dll
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\bin\Debug\net8.0\DashBoard.pdb
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.AssemblyInfoInputs.cache
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.AssemblyInfo.cs
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.csproj.CoreCompileInputs.cache
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.RazorAssemblyInfo.cache
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.RazorAssemblyInfo.cs
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.sourcelink.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.DashBoard.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.build.DashBoard.props
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DashBoard.props
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DashBoard.props
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\scopedcss\bundle\DashBoard.styles.css
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\scopedcss\projectbundle\DashBoard.bundle.scp.css
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.dll
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\refint\DashBoard.dll
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.pdb
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\DashBoard.genruntimeconfig.cache
+C:\Users\mongt\OneDrive\Máy tính\DOAN_DASHBOARD\DashBoard\obj\Debug\net8.0\ref\DashBoard.dll
